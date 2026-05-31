@@ -9,7 +9,7 @@
 
 ## 🛠️ Skills
 
-- Data analysis and business intelligence dashboard design  
+- Data Engineer and Bussiness intelligence dashboard design  
 - Advanced SQL for reporting and analytics  
 - Financial and sales report optimization  
 - Power BI / Tableau (interactive dashboards)
